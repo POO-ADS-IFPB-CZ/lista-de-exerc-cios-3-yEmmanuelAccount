@@ -28,3 +28,5 @@ $\quad$ Explique a diferença entre um array de tipos primitivos (int[], double[
 * Como a memória é alocada em cada caso?
 * Quais cuidados devem ser tomados ao acessar elementos de um array de objetos?
 
+$\quad$ A resposta está no arquivo [Resposta04.md](questao04/Resposta04.md).
+
